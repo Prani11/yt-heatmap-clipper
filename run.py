@@ -16,9 +16,9 @@ MAX_CLIPS = 10            # Maximum number of clips to generate per video
 MAX_WORKERS = 1           # Number of parallel workers (reserved for future concurrency)
 PADDING = 10              # Extra seconds added before and after each detected segment
 TOP_HEIGHT = 960          # Height for top section (center content) in split mode
-BOTTOM_HEIGHT = 350       # Height for bottom section (facecam) in split mode
+BOTTOM_HEIGHT = 320       # Height for bottom section (facecam) in split mode (Total: 1280px)
 USE_SUBTITLE = True       # Enable auto subtitle using Faster-Whisper (4-5x faster)
-WHISPER_MODEL = "small"    # Whisper model size: tiny, base, small, medium, large
+WHISPER_MODEL = "small"   # Whisper model size: tiny, base, small, medium, large
 
 def extract_video_id(url):
     """
